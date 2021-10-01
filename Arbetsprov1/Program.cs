@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json;
 
-namespace Arbetsprov1
+namespace ApiCall
 {
     class Program   //Objective: Make an API call from the link and list the employees in a list that looks good
     {
